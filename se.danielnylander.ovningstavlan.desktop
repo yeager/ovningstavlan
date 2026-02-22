@@ -1,5 +1,6 @@
 [Desktop Entry]
-Name=Uovningstavlan
+Name=Practice Board
+Name[sv]=Övningstavlan
 Comment=Practice board with visual feedback for children
 Comment[sv]=Övningstavla med visuell feedback
 Exec=ovningstavlan

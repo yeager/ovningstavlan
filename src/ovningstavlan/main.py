@@ -27,7 +27,7 @@ EXERCISES = [
 class MainWindow(Adw.ApplicationWindow):
     def __init__(self, **kwargs):
         super().__init__(**kwargs)
-        self.set_title(_('Övningstavlan'))
+        self.set_title(_('Practice Board'))
         self.set_default_size(500, 550)
         self._current = None
         self._index = 0
@@ -133,7 +133,7 @@ class App(Adw.Application):
         super().__init__(application_id='se.danielnylander.ovningstavlan')
         self.connect('activate', lambda a: MainWindow(application=a).present())
         about = Gio.SimpleAction.new('about', None)
-        about.connect('activate', lambda a,p: Adw.AboutDialog(application_name=_('Övningstavlan'),
+        about.connect('activate', lambda a,p: Adw.AboutDialog(application_name=_('Practice Board'),
             application_icon=APP_ID, version=__version__, developer_name='Daniel Nylander',
             website='https://github.com/yeager/ovningstavlan', license_type=Gtk.License.GPL_3_0,
             comments=_('Practice board with visual feedback')).present(self.get_active_window()))
