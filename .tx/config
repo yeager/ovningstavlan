@@ -1,0 +1,7 @@
+[main]
+host = https://www.transifex.com
+[o:danielnylander:p:ovningstavlan:r:ovningstavlan-pot]
+file_filter = po/<lang>.po
+source_file = po/ovningstavlan.pot
+source_lang = en
+type = PO

@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Uovningstavlan
+Comment=Practice board with visual feedback for children
+Comment[sv]=Övningstavla med visuell feedback
+Exec=ovningstavlan
+Icon=se.danielnylander.ovningstavlan
+Type=Application
+Categories=Education;Accessibility;
