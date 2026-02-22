@@ -1,0 +1,147 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the ovningstavlan package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# Daniel Nylander <po@danielnylander.se>, 2026
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: ovningstavlan\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-02-22 17:21+0100\n"
+"PO-Revision-Date: 2026-02-22 16:23+0000\n"
+"Last-Translator: Daniel Nylander <po@danielnylander.se>, 2026\n"
+"Language-Team: Swedish (https://app.transifex.com/danielnylander/teams/305249/sv/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: sv\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: src/ovningstavlan/main.py:20
+msgid "Letters"
+msgstr "Bokstäver"
+
+#: src/ovningstavlan/main.py:21
+msgid "Numbers"
+msgstr "Siffror"
+
+#: src/ovningstavlan/main.py:22
+msgid "Colors"
+msgstr "Färger"
+
+#: src/ovningstavlan/main.py:22
+msgid "Red"
+msgstr "Röd"
+
+#: src/ovningstavlan/main.py:22
+msgid "Blue"
+msgstr "Blå"
+
+#: src/ovningstavlan/main.py:22
+msgid "Green"
+msgstr "Grön"
+
+#: src/ovningstavlan/main.py:22
+msgid "Yellow"
+msgstr "Gul"
+
+#: src/ovningstavlan/main.py:22
+msgid "Orange"
+msgstr "Orange"
+
+#: src/ovningstavlan/main.py:22
+msgid "Purple"
+msgstr "Lila"
+
+#: src/ovningstavlan/main.py:23
+msgid "Shapes"
+msgstr "Former"
+
+#: src/ovningstavlan/main.py:23
+msgid "Circle"
+msgstr "Cirkel"
+
+#: src/ovningstavlan/main.py:23
+msgid "Square"
+msgstr "Fyrkant"
+
+#: src/ovningstavlan/main.py:23
+msgid "Triangle"
+msgstr "Triangel"
+
+#: src/ovningstavlan/main.py:23
+msgid "Star"
+msgstr "Stjärna"
+
+#: src/ovningstavlan/main.py:23
+msgid "Heart"
+msgstr "Hjärta"
+
+#: src/ovningstavlan/main.py:24
+msgid "Animals"
+msgstr "Djur"
+
+#: src/ovningstavlan/main.py:24
+msgid "Dog"
+msgstr "Hund"
+
+#: src/ovningstavlan/main.py:24
+msgid "Cat"
+msgstr "Katt"
+
+#: src/ovningstavlan/main.py:24
+msgid "Bird"
+msgstr "Fågel"
+
+#: src/ovningstavlan/main.py:24
+msgid "Fish"
+msgstr "Fisk"
+
+#: src/ovningstavlan/main.py:24
+msgid "Horse"
+msgstr "Häst"
+
+#: src/ovningstavlan/main.py:24
+msgid "Rabbit"
+msgstr "Kanin"
+
+#: src/ovningstavlan/main.py:30 src/ovningstavlan/main.py:136
+msgid "Övningstavlan"
+msgstr "Övningstavlan"
+
+#: src/ovningstavlan/main.py:39
+msgid "About"
+msgstr "Om"
+
+#: src/ovningstavlan/main.py:50
+msgid "What do you want to practice?"
+msgstr "Vad vill du öva på?"
+
+#: src/ovningstavlan/main.py:69
+msgid "Practice"
+msgstr "Öva"
+
+#: src/ovningstavlan/main.py:90
+msgid "Next ⭐"
+msgstr "Nästa ⭐"
+
+#: src/ovningstavlan/main.py:96
+msgid "← Back"
+msgstr "← Bakåt"
+
+#: src/ovningstavlan/main.py:100
+msgid "Card"
+msgstr "Kort"
+
+#: src/ovningstavlan/main.py:118
+#, python-format
+msgid "%d of %d"
+msgstr "%d av %d"
+
+#: src/ovningstavlan/main.py:139
+msgid "Practice board with visual feedback"
+msgstr "Övningsbräda med visuell återkoppling"
