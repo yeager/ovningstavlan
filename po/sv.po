@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ovningstavlan\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-02-22 17:21+0100\n"
+"POT-Creation-Date: 2026-02-23 11:03+0100\n"
 "PO-Revision-Date: 2026-02-22 16:23+0000\n"
 "Last-Translator: Daniel Nylander <po@danielnylander.se>, 2026\n"
 "Language-Team: Swedish (https://app.transifex.com/danielnylander/teams/305249/sv/)\n"
@@ -109,39 +109,56 @@ msgstr "Häst"
 msgid "Rabbit"
 msgstr "Kanin"
 
-#: src/ovningstavlan/main.py:30 src/ovningstavlan/main.py:136
-msgid "Övningstavlan"
+#: src/ovningstavlan/main.py:30 src/ovningstavlan/main.py:195
+#: src/ovningstavlan/main.py:203
+msgid "Practice Board"
 msgstr "Övningstavlan"
 
-#: src/ovningstavlan/main.py:39
+#: src/ovningstavlan/main.py:47
+msgid "Ovningstavlan"
+msgstr "Övningstavlan"
+
+#: src/ovningstavlan/main.py:53
 msgid "About"
 msgstr "Om"
 
-#: src/ovningstavlan/main.py:50
+#: src/ovningstavlan/main.py:64
 msgid "What do you want to practice?"
 msgstr "Vad vill du öva på?"
 
-#: src/ovningstavlan/main.py:69
+#: src/ovningstavlan/main.py:83
 msgid "Practice"
 msgstr "Öva"
 
-#: src/ovningstavlan/main.py:90
+#: src/ovningstavlan/main.py:104
 msgid "Next ⭐"
 msgstr "Nästa ⭐"
 
-#: src/ovningstavlan/main.py:96
+#: src/ovningstavlan/main.py:110
 msgid "← Back"
 msgstr "← Bakåt"
 
-#: src/ovningstavlan/main.py:100
+#: src/ovningstavlan/main.py:114
 msgid "Card"
 msgstr "Kort"
 
-#: src/ovningstavlan/main.py:118
+#: src/ovningstavlan/main.py:132
 #, python-format
 msgid "%d of %d"
 msgstr "%d av %d"
 
-#: src/ovningstavlan/main.py:139
+#: src/ovningstavlan/main.py:176
+msgid "🎉 Du hittade hemligheten!"
+msgstr "🎉 Du hittade hemligheten!"
+
+#: src/ovningstavlan/main.py:198
 msgid "Practice board with visual feedback"
 msgstr "Övningsbräda med visuell återkoppling"
+
+#: src/ovningstavlan/main.py:209
+msgid "Description here"
+msgstr "Beskrivning här"
+
+#: src/ovningstavlan/main.py:211
+msgid "Thanks to"
+msgstr "Tack till"
